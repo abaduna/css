@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+header{
+    display: flex;
+    height: 100px;
+    text-align: center;
+}
+h1{
+    padding: 15px;
+    height: 80%;
+}
+img{
+    
+    height: 75px;
+    border-radius: 150px;
+}
